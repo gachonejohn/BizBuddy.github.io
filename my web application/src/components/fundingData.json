@@ -1,0 +1,56 @@
+{
+    "crowdfunding": [
+      {
+        "id": "cf1",
+        "name": "EcoTech Startup",
+        "type": "crowdfunding",
+        "goal": 50000,
+        "raised": 30000,
+        "description": "Innovative eco-friendly technology solutions for sustainable living."
+      },
+      {
+        "id": "cf2",
+        "name": "Sustainable Fashion Brand",
+        "type": "crowdfunding",
+        "goal": 25000,
+        "raised": 15000,
+        "description": "Eco-conscious clothing line using recycled materials and ethical production."
+      },
+      {
+        "id": "cf3",
+        "name": "Urban Farming Initiative",
+        "type": "crowdfunding",
+        "goal": 40000,
+        "raised": 22000,
+        "description": "Creating community gardens and vertical farms in urban areas."
+      }
+ 
+    ],
+    "investorMatching": [
+      {
+        "id": "im1",
+        "name": "AI-Driven Health App",
+        "type": "investor",
+        "goal": 500000,
+        "raised": 250000,
+        "description": "Personalized health recommendations using AI and machine learning."
+      },
+      {
+        "id": "im2",
+        "name": "Blockchain Supply Chain Solution",
+        "type": "investor",
+        "goal": 750000,
+        "raised": 400000,
+        "description": "Transparent and secure supply chain management using blockchain technology."
+      },
+      {
+        "id": "im3",
+        "name": "Autonomous Delivery Robots",
+        "type": "investor",
+        "goal": 1000000,
+        "raised": 600000,
+        "description": "Fleet of autonomous robots for last-mile delivery in urban areas."
+      }
+     
+    ]
+  }
